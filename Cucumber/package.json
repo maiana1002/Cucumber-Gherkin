@@ -1,0 +1,16 @@
+{
+  "name": "cucumber",
+  "version": "1.0.0",
+  "description": "Projeto de testes automatizados usando Cucumber",
+  "main": "index.js",
+  "scripts": {
+    "test": "cucumber-js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@cucumber/cucumber": "^8.11.1",
+    "chai": "^4.5.0"
+  }
+}
